@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\thisi\source\repos\task9\task9\source.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\thisi\source\repos\task9\task9\source.cpp(208): warning C4018: <: несоответствие типов со знаком и без знака
+  Task9.vcxproj -> C:\Users\thisi\source\repos\Task9\Debug\Task9.exe
